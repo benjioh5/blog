@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Benjioh5's ARK
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: ~블록체인이라는 대 사기극~
 
 #
 # Flags below are optional
@@ -23,25 +23,23 @@ navigation:
   - name: Blog
     url: /
   - name: About
-    url: /about
+    url: https://www.benjioh5.com
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
-paginate: 5
+paginate: 1
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
-  facebook:
+  email: benjioh5@gmail.com
+  facebook: benjamin.hk.oh
   flickr:
-  github: AWEEKJ/kiko-now
+  github: benjioh5/blog
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -49,7 +47,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: benjioh5
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
@@ -64,7 +62,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: benjioh5.com/blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
