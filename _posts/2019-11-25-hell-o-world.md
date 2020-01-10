@@ -2,6 +2,7 @@
 layout: post
 title: Hell o world!
 tags: []
+comments: true
 ---
 
 나는 사실 github pages로 스태틱이 아닌 페이지를 운영하는 걸 엄청 싫어한다. 일단, 제대로 된 위지윅 에디터를 지원하지 않는다는 점. Markdown의 어중간함. 그리고, 블로그 글을 쓸 때마다 커밋해야한다는 점이 엄청난 스트레스로 와 닿게 되는데 이 부분에 대해서 제대로 된 해결을 본 적이 없었다.
