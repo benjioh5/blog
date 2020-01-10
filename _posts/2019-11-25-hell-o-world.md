@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hell o world!
-tags: []
+tags: [일상]
 comments: true
 ---
 
